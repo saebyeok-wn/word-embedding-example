@@ -1,0 +1,10 @@
+.idea
+venv
+/preprocess.sh
+/wiki-sg-256
+/wiki-sg-256.wv
+/wisekmapy
+/logs
+/ko_w2v
+/ko_w2v.vec
+/kor_ws353.csv
